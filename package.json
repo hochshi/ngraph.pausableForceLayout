@@ -1,0 +1,26 @@
+{
+  "name": "ngraph.pausableforcelayout",
+  "version": "0.0.21",
+  "description": "Force directed graph drawing layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hochshi/ngraph.pausableForceLayout.git"
+  },
+  "keywords": [
+    "ngraph",
+    "ngraphjs"
+  ],
+  "author": "Shi Hoch",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/hochshi/ngraph.pausableForceLayout/issues"
+  },
+  "homepage": "https://github.com/hochshi/ngraph.pausableForceLayout#readme",
+  "dependencies": {
+    "ngraph.forcelayout": "0.0.21"
+  }
+}
